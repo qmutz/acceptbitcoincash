@@ -370,7 +370,7 @@ websites:
   img: switchat.png
   facebook: switchnurenergie
   email_address: info@switch.at
-  bch: true
+  bch: false
   btc: true
   othercrypto: false
   doc: https://bitcoin.switch.at/
